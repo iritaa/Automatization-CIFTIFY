@@ -1,4 +1,5 @@
-RUN_CIFTIFY.sh
+RUN_CIFTIFY
+
 
 Tool for data processing based on CIFTIFY TOOL.
 

@@ -21,9 +21,12 @@ Use Mode:
 ./run_cifity param1 param2
 
 Param1 is the folder that contain all candidates.
+
 Param2 is the name of the Output Folder.
 
+
 Example:
+
 ./run_ciftify /home/iris/Mapeo_Study /home/iris/Mapeo_Study/cifti_mapeo_output
 
 See the example at the link: 
@@ -32,7 +35,9 @@ See the example at the link:
 
 
 
+
 Authors: Iris Rodriguez Gil.
+
 
 Date: September 16,2019.
 

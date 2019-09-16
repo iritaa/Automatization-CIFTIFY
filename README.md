@@ -27,7 +27,7 @@ Param2 is the name of the Output Folder.
 
 Example:
 
-./run_ciftify /home/iris/Mapeo_Study /home/iris/Mapeo_Study/cifti_mapeo_output
+./run_ciftify /home/iris/Mapeo_Study /home/iris/Mapeo_Study  cifti_mapeo_output
 
 See the example at the link: 
 

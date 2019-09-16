@@ -12,9 +12,7 @@ See the documentation of CIFTIFY TOOL https://github.com/edickie/ciftify.
 Ciftify tool requires the output of the freesurfer processing as input, the processing performed with:
 
 Freesurfer version 6.0.
-
-FSL version 6.0.
-
+FSL version 6.0
 HCP-Pipelines-4.0.1
 
 

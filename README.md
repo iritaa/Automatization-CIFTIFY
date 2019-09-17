@@ -6,26 +6,29 @@ Tool for data processing based on CIFTIFY TOOL.
 Requeriments:
 
 
-Is very important previosly have set the environment of work with the requeriments of the other tools involved:
+It's very important,as a previous step, to have installed the following tools:
 
-FSL, FREESURFER, CIFTIFY, HCP-Pipelines.
+Freesurfer version 6.0
+
+FSL version 6.0
+
+HCP-Pipelines-4.0.1
+
+Ciftify
 
 See the documentation of CIFTIFY TOOL https://github.com/edickie/ciftify.
 
-Ciftify tool requires the output of the freesurfer processing as input, the processing performed with:
+Ciftify tool requires the output of the freesurfer processing as input parameter.
 
-Freesurfer version 6.0,
-FSL version 6.0.
-HCP-Pipelines-4.0.1.
 
-The run_cifitify script work with the call to the ciftify tool for all candidates of the dataset described (param1),
-and collect the results in the output folder (param2)
+The run_cifitify script works by calling ciftify tool for all candidates of the dataset described (param1),
+and collects the results in the output folder (param2)
 
 Use Mode:
 
 ./run_cifity param1 param2
 
-Param1 is the folder that contain all candidates.
+Param1 is the folder that contains all candidates.
 
 Param2 is the name of the Output Folder.
 

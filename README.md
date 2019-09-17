@@ -7,7 +7,10 @@ Requeriments:
 
 
 It's very important,as a previous step, to have installed the following tools:
-
+<ul>
+  <li>TEST</li>
+  <li>TEST2</li>
+</ul>
 Freesurfer version 6.0
 
 FSL version 6.0

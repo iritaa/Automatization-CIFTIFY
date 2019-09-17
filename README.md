@@ -5,7 +5,10 @@ Tool for data processing based on CIFTIFY TOOL.
 
 Requeriments:
 
-Is very important have set the environment of work and the installations the others tools.
+
+Is very important previosly have set the environment of work with the requeriments of the other tools involved:
+
+FSL, FREESURFER, CIFTIFY, HCP-Pipelines.
 
 See the documentation of CIFTIFY TOOL https://github.com/edickie/ciftify.
 
@@ -15,6 +18,8 @@ Freesurfer version 6.0,
 FSL version 6.0.
 HCP-Pipelines-4.0.1.
 
+The run_cifitify script work with the call to the ciftify tool for all candidates of the dataset described (param1),
+and collect the results in the output folder (param2)
 
 Use Mode:
 
@@ -28,8 +33,6 @@ Param2 is the name of the Output Folder.
 Example:
 
 ./run_ciftify /home/iris/Mapeo_Study /home/iris/Mapeo_Study  cifti_mapeo_output
-
-See the example at the link: 
 
 
 

@@ -20,7 +20,6 @@ It's very important,as a previous step, to have installed the following tools:
 
 
 
-Ciftify
 
 See the documentation of CIFTIFY TOOL https://github.com/edickie/ciftify.
 

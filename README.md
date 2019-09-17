@@ -8,14 +8,17 @@ Requeriments:
 
 It's very important,as a previous step, to have installed the following tools:
 <ul>
-  <li>TEST</li>
-  <li>TEST2</li>
+  <li>Freesurfer version 6.0</li>
+  <li>FSL version 6.0</li>
+  <li>HCP-Pipelines-4.0.1</li>
+  <li>Ciftify version </li>
+  <li>Worbench for Linux version</li>
+  
 </ul>
-Freesurfer version 6.0
 
-FSL version 6.0
 
-HCP-Pipelines-4.0.1
+
+
 
 Ciftify
 
